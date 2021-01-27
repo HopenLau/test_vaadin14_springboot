@@ -1,6 +1,11 @@
 # test_vaadin14_springboot
 Demo project for vaadin 14 with springboot
 
+『
+呢個project，首先係喺eclipse中新建一個SpringBoot項目。
+然之後，喺spring boot嘅基礎上，添加vaadin 14嘅依賴而建成的。
+』
+
 该系统开发环境是基于： Eclipse:2020-06 (4.16.0)，
 
 Jdk : 1.8版本
